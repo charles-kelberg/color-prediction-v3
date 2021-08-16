@@ -1,8 +1,11 @@
 # color-prediction-v3
 hi,
 im charles 
+
 i just created color prediction app (special credit to my indian friend raghuram),
-this app helps to find the upcoming  color in feiwin,mantrimalls,rxce...(in most of the prediction sites itll work )....etc}
+
+
+this app helps to predict the upcoming  color in feiwin,mantrimalls,rxce...(in most of the prediction sites itll work )....etc}
 -----------------------------------------------------------------------------------------------------------------------------------
 
 
