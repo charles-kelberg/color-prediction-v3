@@ -38,7 +38,7 @@ you can mail me if you still  dont know how to use it
 
 
 
-this are some of my clients  profit by using my new version
+this is one of my client's  profit by using my new version
 ------------------
 
 
