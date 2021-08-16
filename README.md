@@ -11,5 +11,19 @@ imp::::this app version is paid (if your country is banned prediction sites,bett
 version 3  cost 5$ (370rs)
 
 ----------------
-payment process
+-:::payment process::::-
 ----------------
+
+1) if you dont know how to download the file ,watch this tutorial ====>
+
+2) after downloading the file extract the file (you can use any file extrator)
+
+3) now you have to enter the password 
+
+4) for the password pay ( 5$ ) 370rs to https://pmny.in/9IxPvaqfMIrq and send screenshot to kerlbcharles@yandex.com
+
+5) after verification i,ll send the password via email within 10 min
+
+6) imp::please dont try to cheat with false credential ,youll be blocked and  never get the password
+
+7) 
