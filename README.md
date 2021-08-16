@@ -35,6 +35,11 @@ version 3  cost 5$ (370rs)
 -----------------------------  
 just enter the  period and 3 recently arrived numbers
 
+try to use small amount on beggining
+
+imp::::::-----turn on and off airoplane mode each time on starting the app-
+
+
 you can mail me if you still  dont know how to use it 
 
 
