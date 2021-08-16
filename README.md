@@ -33,3 +33,10 @@ version 3  cost 5$ (370rs)
 just enter the  period and 3 recently arrived numbers
 
 you can mail me if you still  dont know how to use it 
+
+
+
+
+this are some of my indian friends profit by using my new vwesion
+
+![WhatsApp Image 2021-08-16 at 7 50 14 PM](https://user-images.githubusercontent.com/88701482/129579762-63dc7688-a9dd-43ce-bf9e-b63fc6511c7c.jpeg)
