@@ -17,7 +17,7 @@ version 3  cost 5$ (370rs)
 -:::payment process::::-
 ----------------
 
-1) if you dont know how to download the file ,watch this tutorial ====>
+1) if you dont know how to download the file ,watch this tutorial ====> https://youtu.be/MZz5CzxaldU
 
 2) after downloading the file extract the file (you can use any file extrator)
 
