@@ -25,5 +25,11 @@ version 3  cost 5$ (370rs)
 5) after verification i,ll send the password via email within 10 min
 
 6) imp::please dont try to cheat with false credential ,youll be blocked and  never get the password
+ 
 
-7) 
+-----------------------------
+        how to use;;-
+-----------------------------  
+just enter the  period and 3 recently arrived numbers
+
+you can mail me if you still  dont know how to use it 
